@@ -12,6 +12,7 @@ class Hello{
 	}
  public void cya()
 {
+System.out.println("IN cya method");
 }
 
 
